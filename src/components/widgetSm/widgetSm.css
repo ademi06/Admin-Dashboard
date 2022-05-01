@@ -6,10 +6,11 @@
     margin-right: 20px;
 }
 .widgetSmTitle{
-    font-size: 22px;
+    font-size: 20px;
     font-weight: 600;
+    padding-top: 6px;
 }
-.widgetSmImage{
+.widgetSmImg{
     width: 40px;
     height: 40px;
     border-radius: 50%;
@@ -19,6 +20,7 @@
     margin: 0;
     padding: 0;
     list-style: none;
+    padding-top: 8px;
 }
 .widgetSmListItem{
     display: flex;
@@ -36,6 +38,7 @@
 }
 .widgetSmUserTitle{
 font-weight: 300;
+font-size: 16px;
 }
 .widgetSmButton{
     display: flex;
@@ -49,6 +52,9 @@ font-weight: 300;
 
 }
 .widgetSmIcon{
-    font-style: 16px;
+    font-style: 16px !important;
     margin-right: 5px;
+}
+.widgetSmUserTitle{
+    font-size: 11px;
 }

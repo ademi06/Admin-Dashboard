@@ -1,6 +1,6 @@
 export const userData = [
     {
-        name: "January",
+        name: "Jan",
         "Active User": 4000,
     },
     {
@@ -47,4 +47,4 @@ export const userData = [
         name: "Dec",
         "Active User": 2000,
     },
-]
+];

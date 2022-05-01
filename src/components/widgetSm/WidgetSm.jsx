@@ -7,7 +7,7 @@ export default function WidgetSm() {
         <span className="widgetSmTitle">New Join Members</span>
         <ul className="widgetSmList">
             <li className="widgetSmListItem">
-                <img src="https://avatars.githubusercontent.com/u/72165670?s=400&u=e9f0eeb9ee91e54899d974c551b397c7410abf8a&v=4" alt="Bukoka" className="widgetSmImage" />
+                <img src="https://avatars.githubusercontent.com/u/72165670?s=400&u=e9f0eeb9ee91e54899d974c551b397c7410abf8a&v=4" alt="Bukoka" className="widgetSmImg" />
                 <div className="widgetSmUser">
                     <span className="widgetSmUsername"> Bukola Fatunde</span>
                     <span className="widgetSmUserTitle"> Software Engineer</span> 
@@ -18,7 +18,7 @@ export default function WidgetSm() {
                 </button>
             </li>
             <li className="widgetSmListItem">
-                <img src="https://avatars.githubusercontent.com/u/72165670?s=400&u=e9f0eeb9ee91e54899d974c551b397c7410abf8a&v=4" alt="Bukoka" className="widgetSmImage" />
+                <img src="https://avatars.githubusercontent.com/u/72165670?s=400&u=e9f0eeb9ee91e54899d974c551b397c7410abf8a&v=4" alt="Bukoka" className="widgetSmImg" />
                 <div className="widgetSmUser">
                     <span className="widgetSmUsername"> Bukola Fatunde</span>
                     <span className="widgetSmUserTitle"> Software Engineer</span> 
@@ -29,7 +29,7 @@ export default function WidgetSm() {
                 </button>
             </li>
             <li className="widgetSmListItem">
-                <img src="https://avatars.githubusercontent.com/u/72165670?s=400&u=e9f0eeb9ee91e54899d974c551b397c7410abf8a&v=4" alt="Bukoka" className="widgetSmImage" />
+                <img src="https://avatars.githubusercontent.com/u/72165670?s=400&u=e9f0eeb9ee91e54899d974c551b397c7410abf8a&v=4" alt="Bukoka" className="widgetSmImg" />
                 <div className="widgetSmUser">
                     <span className="widgetSmUsername"> Bukola Fatunde</span>
                     <span className="widgetSmUserTitle"> Software Engineer</span> 
@@ -40,7 +40,7 @@ export default function WidgetSm() {
                 </button>
             </li>
             <li className="widgetSmListItem">
-                <img src="https://avatars.githubusercontent.com/u/72165670?s=400&u=e9f0eeb9ee91e54899d974c551b397c7410abf8a&v=4" alt="Bukoka" className="widgetSmImage" />
+                <img src="https://avatars.githubusercontent.com/u/72165670?s=400&u=e9f0eeb9ee91e54899d974c551b397c7410abf8a&v=4" alt="Bukoka" className="widgetSmImg" />
                 <div className="widgetSmUser">
                     <span className="widgetSmUsername"> Bukola Fatunde</span>
                     <span className="widgetSmUserTitle"> Software Engineer</span> 
@@ -51,7 +51,7 @@ export default function WidgetSm() {
                 </button>
             </li>
             <li className="widgetSmListItem">
-                <img src="https://avatars.githubusercontent.com/u/72165670?s=400&u=e9f0eeb9ee91e54899d974c551b397c7410abf8a&v=4" alt="Bukoka" className="widgetSmImage" />
+                <img src="https://avatars.githubusercontent.com/u/72165670?s=400&u=e9f0eeb9ee91e54899d974c551b397c7410abf8a&v=4" alt="Bukoka" className="widgetSmImg" />
                 <div className="widgetSmUser">
                     <span className="widgetSmUsername"> Bukola Fatunde</span>
                     <span className="widgetSmUserTitle"> Software Engineer</span> 
