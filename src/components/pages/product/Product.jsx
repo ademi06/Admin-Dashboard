@@ -55,10 +55,15 @@ export default function Product() {
                         <option value="yes">Yes</option>
                         <option value="no">No</option>
                     </select>
+                    <label>Active</label>
+                    <select name="active" id="idActive">
+                        <option value="yes">Yes</option>
+                        <option value="no">No</option>
+                    </select>
                 </div>
                 <div className="productFormRight">
                     <div className="productUpload">
-                        <img src="https://cdn.pixabay.com/photo/2017/02/07/02/16/cloud-2044823_960_720.png" alt="" 
+                        <img src="https://helios-i.mashable.com/imagery/reviews/022c7EttLvoNLdKd1bLZtnk/hero-image.fill.size_1248x702.v1623387265.jpg" alt="" 
                         className="productUploadImg" />
                         <label for="file">
                             <Publish/>
