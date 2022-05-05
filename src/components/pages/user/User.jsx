@@ -1,12 +1,16 @@
 import "./user.css";
 import {CalendarToday, LocationSearching, MailOutline, PermIdentity, PhoneAndroid, Publish} from '@mui/icons-material';
+import { Link } from "react-router-dom";
 
 export default function User() {
   return (
     <div className="user">
         <div className="userTitleContainer">
             <h1 className="userTitle">Edit User</h1>
-            <button className="userAddButton">Create</button>
+            <Link to="/newUser">
+                <button className="userAddButton">Create</button>
+             </Link>
+            
         </div>
         <div className="userContainer">
             <div className="userShow">
@@ -87,7 +91,7 @@ export default function User() {
                         <img src="https://media.istockphoto.com/photos/young-african-american-woman-with-afro-hair-wearing-casual-sweater-picture-id1205341221?k=20&m=1205341221&s=612x612&w=0&h=FPct0i5kc84CUntLOPj_qgExzo_fAQei48-Smgr4OyA=" alt=""
                          className="userUpdateImg" />
                          <label htmlFor="file">
-                             <Publish/>
+                             <Publish className="userUpdateIcon"/>
                              </label>
                          <input type="file" id="file" style={{display:"none"}} />
                     </div>

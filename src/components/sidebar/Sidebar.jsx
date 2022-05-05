@@ -3,6 +3,7 @@ import {LineStyle, Timeline, TrendingUp} from '@mui/icons-material';
 import {PersonOutline, Inventory2Outlined, AttachMoney, Equalizer,
   MailOutline, DynamicFeed, ChatBubbleOutline, WorkOutline
 } from '@mui/icons-material';
+import {Link} from "react-router-dom";
 
 
 export default function Sidebar() {
@@ -30,14 +31,18 @@ export default function Sidebar() {
         <div className="sidebarMenu">
           <h3 className='sidebarTitle'>Quick Menu</h3>
           <ul className="sidebarList">
+          <Link to="/users" className='link'>
             <li className="sidebarListItems ">
               <PersonOutline className='sidebarIcon' />
               Users
             </li>
+          </Link>
+          <Link to="/products" className='link'>
             <li className="sidebarListItems">
               <Inventory2Outlined className='sidebarIcon'/>
               Products
             </li>
+          </Link>
             <li className="sidebarListItems">
               <AttachMoney className='sidebarIcon'/>
               Transactions
