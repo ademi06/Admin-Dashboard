@@ -37,7 +37,7 @@ export default function Sidebar() {
               Users
             </li>
           </Link>
-          <Link to="/products" className='link'>
+          <Link to="/product" className='link'>
             <li className="sidebarListItems">
               <Inventory2Outlined className='sidebarIcon'/>
               Products
