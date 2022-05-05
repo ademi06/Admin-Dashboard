@@ -114,3 +114,69 @@ export const userRows = [
     transaction:'$120.00'
 },
   ];
+
+  export const productRows = [
+    { id: 1, 
+    name: 'Apple Airpods', 
+    img: 'https://www.zdnet.com/a/img/resize/b4f33a2099bbba2d06f19d9ec9f69f751356dd2e/2021/02/05/18e2f8dd-ada1-490e-9c3f-87066bcea556/apple-airpods-pro-best-wireless-earbuds-review.png?width=1200&fit=bounds&format=pjpg&auto=webp' ,
+    stock: '123',
+    status: 'active',
+    price:' $120.00'
+},
+{ id: 2, 
+    name: 'Apple Airpods', 
+    img: 'https://www.zdnet.com/a/img/resize/b4f33a2099bbba2d06f19d9ec9f69f751356dd2e/2021/02/05/18e2f8dd-ada1-490e-9c3f-87066bcea556/apple-airpods-pro-best-wireless-earbuds-review.png?width=1200&fit=bounds&format=pjpg&auto=webp' ,
+    stock: '123',
+    status: 'active',
+    price:' $120.00'
+},
+{ id: 3, 
+    name: 'Apple Airpods', 
+    img: 'https://www.zdnet.com/a/img/resize/b4f33a2099bbba2d06f19d9ec9f69f751356dd2e/2021/02/05/18e2f8dd-ada1-490e-9c3f-87066bcea556/apple-airpods-pro-best-wireless-earbuds-review.png?width=1200&fit=bounds&format=pjpg&auto=webp' ,
+    stock: '123',
+    status: 'active',
+    price:' $120.00'
+},
+{ id: 4, 
+    name: 'Apple Airpods', 
+    img: 'https://www.zdnet.com/a/img/resize/b4f33a2099bbba2d06f19d9ec9f69f751356dd2e/2021/02/05/18e2f8dd-ada1-490e-9c3f-87066bcea556/apple-airpods-pro-best-wireless-earbuds-review.png?width=1200&fit=bounds&format=pjpg&auto=webp' ,
+    stock: '123',
+    status: 'active',
+    price:' $120.00'
+},
+{ id: 5, 
+    name: 'Apple Airpods', 
+    img: 'https://www.zdnet.com/a/img/resize/b4f33a2099bbba2d06f19d9ec9f69f751356dd2e/2021/02/05/18e2f8dd-ada1-490e-9c3f-87066bcea556/apple-airpods-pro-best-wireless-earbuds-review.png?width=1200&fit=bounds&format=pjpg&auto=webp' ,
+    stock: '123',
+    status: 'active',
+    price:' $120.00'
+},
+{ id: 6, 
+    name: 'Apple Airpods', 
+    img: 'https://www.zdnet.com/a/img/resize/b4f33a2099bbba2d06f19d9ec9f69f751356dd2e/2021/02/05/18e2f8dd-ada1-490e-9c3f-87066bcea556/apple-airpods-pro-best-wireless-earbuds-review.png?width=1200&fit=bounds&format=pjpg&auto=webp' ,
+    stock: '123',
+    status: 'active',
+    price:' $120.00'
+},
+{ id: 7, 
+    name: 'Apple Airpods', 
+    img: 'https://www.zdnet.com/a/img/resize/b4f33a2099bbba2d06f19d9ec9f69f751356dd2e/2021/02/05/18e2f8dd-ada1-490e-9c3f-87066bcea556/apple-airpods-pro-best-wireless-earbuds-review.png?width=1200&fit=bounds&format=pjpg&auto=webp' ,
+    stock: '123',
+    status: 'active',
+    price:' $120.00'
+},
+{ id: 8, 
+    name: 'Apple Airpods', 
+    img: 'https://www.zdnet.com/a/img/resize/b4f33a2099bbba2d06f19d9ec9f69f751356dd2e/2021/02/05/18e2f8dd-ada1-490e-9c3f-87066bcea556/apple-airpods-pro-best-wireless-earbuds-review.png?width=1200&fit=bounds&format=pjpg&auto=webp' ,
+    stock: '123',
+    status: 'active',
+    price: '$120.00'
+},
+{ id: 9, 
+    name: 'Apple Airpods', 
+    img: 'https://www.zdnet.com/a/img/resize/b4f33a2099bbba2d06f19d9ec9f69f751356dd2e/2021/02/05/18e2f8dd-ada1-490e-9c3f-87066bcea556/apple-airpods-pro-best-wireless-earbuds-review.png?width=1200&fit=bounds&format=pjpg&auto=webp' ,
+    stock: '123',
+    status: 'active',
+    price: '$120.00'
+},
+  ];
